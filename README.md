@@ -3,4 +3,4 @@
         <li>Body Mass Index Calculator</li>
         <li>skills used: CSS HTML JS</li>
         <li>Group Project</li>
-</ul>|
+</ul>
